@@ -6,6 +6,7 @@
 ### Automation tests
 
 📺 Python testing UI: https://github.com/a750mr/tests_selenium_shop
+
 🔧 Python testing API: https://github.com/a750mr/test_api_shop
 
-Telegram: https://t.me/expm0t
+📧 Telegram: https://t.me/expm0t
