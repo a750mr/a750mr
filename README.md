@@ -5,7 +5,7 @@
 
 ### Automation tests
 
-📺 Python testing UI: https://github.com/a750mr/web_tests_with_selenium
+📺 Python testing UI: https://github.com/a750mr/tests_selenium_suggested
 
 🔧 Python testing API: https://github.com/a750mr/test_api_shop
 
